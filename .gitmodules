@@ -4,3 +4,9 @@
 [submodule "SID"]
 	path = SID
 	url = https://github.com/Neatherblok/clean-sid.git
+[submodule "CycleGAN"]
+	path = CycleGAN
+	url = https://github.com/Neatherblok/CycleGAN.git
+[submodule "FID"]
+	path = FID
+	url = https://github.com/mseitzer/pytorch-fid.git
